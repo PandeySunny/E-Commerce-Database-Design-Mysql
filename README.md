@@ -1,5 +1,4 @@
-# 🛍️ Developed-and-optimized-a-comprehensive-E-Commerce-relational-database-system-using-MySQL
-# E-Commerce Database Design (MySQL)
+# 🛍️ E-Commerce Database Design (MySQL)
 
 ## 📘 Project Overview
 This project focuses on designing and implementing a **relational E-Commerce database system** using **MySQL**. The goal was to model real-world e-commerce operations—managing customers, employees, products, orders, and payments—while ensuring data integrity, scalability, and performance.  
